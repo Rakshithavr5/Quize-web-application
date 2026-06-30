@@ -1,63 +1,57 @@
-# 🎯 Online Quiz Web Application
+# 🎯 Online Quiz Application
 
-A responsive and interactive quiz application developed using HTML, CSS, and JavaScript. The application allows users to answer multiple-choice questions, view their scores instantly, and enjoy a clean, user-friendly interface.
-
----
-
+A desktop-based **Online Quiz Application** developed using **Java Swing, JDBC, and MySQL**. The application allows users to register, log in, take category-based quizzes, and view their scores instantly. It also includes an Admin Dashboard for managing quiz questions and user data.
 ## 🚀 Features
 
-- User-friendly interface
-- Multiple-choice questions
-- Instant score calculation
-- Responsive design
-- Easy navigation
-- Interactive quiz experience
-
----
-
+- User Registration & Login
+- Category-wise Quiz
+- Countdown Timer
+- Automatic Score Calculation
+- Result Generation
+- Leaderboard
+- Admin Dashboard
+- MySQL Database Integration
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-
----
+- Java
+- Java Swing
+- JDBC
+- MySQL
+- SQL
+- NetBeans IDE
 
 ## 📂 Project Structure
 
 ```
-Quize-web-application/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
+Online-Quiz-Application/
+├── src/
+├── database/
+├── images/
 └── README.md
 ```
 
----
+## ▶️ How to Run
+1. Clone the repository.
+2. Open the project in NetBeans or Eclipse.
+3. Create the MySQL database and import the SQL file.
+4. Update the JDBC database credentials.
+5. Run the project.
 
 ## 📸 Screenshots
 
+- Login Page
+- Registration Page
+- Dashboard
+- Quiz Window
+- Result Page
+- Admin Dashboard
 
-
-## ▶️ How to Run
-
-1. Download or clone the repository.
-2. Open the project folder.
-3. Double-click **index.html** or open it in your browser.
-4. Start answering the quiz.
-
----
-
-## 📈 Future Improvements
-
-- User Login
-- Timer for each question
-- Leaderboard
-- Database integration
-- Random question generation
-
----
+## 📌 Future Enhancements
+- Email Verification
+- Password Recovery
+- Difficulty Levels
+- Performance Analytics
+- Random Question Generation
 
 ## 👩‍💻 Author
 
@@ -66,6 +60,4 @@ Quize-web-application/
 - GitHub: https://github.com/Rakshithavr5
 - LinkedIn: https://www.linkedin.com/in/rakshitha-v-r-3aa1ab311/
 
----
-
-⭐ If you like this project, don't forget to star the repository.
+⭐ If you found this project useful, consider giving it a star!
