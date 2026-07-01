@@ -21,7 +21,6 @@ A desktop-based **Online Quiz Application** developed using **Java Swing, JDBC, 
 - NetBeans IDE
 
 ## 📂 Project Structure
-
 ```
 Online-Quiz-Application/
 ├── src/
@@ -29,7 +28,6 @@ Online-Quiz-Application/
 ├── images/
 └── README.md
 ```
-
 ## ▶️ How to Run
 1. Clone the repository.
 2. Open the project in NetBeans or Eclipse.
@@ -37,14 +35,6 @@ Online-Quiz-Application/
 4. Update the JDBC database credentials.
 5. Run the project.
 
-## 📸 Screenshots
-
-- Login Page
-- Registration Page
-- Dashboard
-- Quiz Window
-- Result Page
-- Admin Dashboard
 
 ## 📌 Future Enhancements
 - Email Verification
